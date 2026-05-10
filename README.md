@@ -84,15 +84,6 @@ ollama pull mistral
 streamlit run streamlit_app.py
 ```
 
----
-
-# 📷 Screenshots
-
-Add screenshots of:
-- PDF upload
-- Chat interface
-- AI responses
-- Source citations
 
 ---
 
